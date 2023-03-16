@@ -1,0 +1,2 @@
+config SHIELD_katkyria
+  def_bool $(shields_list_contains, katkyria)
