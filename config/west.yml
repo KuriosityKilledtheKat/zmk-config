@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: shields/kyria-rev3
-      revision: main
+      revision: petejohanson
       import: app/west.yml
   self:
     path: config
