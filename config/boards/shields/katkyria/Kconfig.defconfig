@@ -1,6 +1,0 @@
-if SHIELD_KATKYRIA
-
-config ZMK_KEYBOARD_NAME
-  default "katkyria"
-  
-endif
